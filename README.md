@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KennethNjuguna
 - 👀 I’m interested in DevOps Engineering Courses.
-- 🌱 I’m currently learning Python for Data 
-- 💞️ I’m looking to collaborate on DevOps and Data Analysis with Python.
+- 🌱 I’m currently learning Python for Data Analysis with Python. 
+- 💞️ I’m looking to collaborate on DevOps.
 - 📫 Contact njuguna.kenneth@outlook.com 
               Nairobi, Kenya 
 
