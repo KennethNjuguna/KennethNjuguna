@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KennethNjuguna
 - 👀 I’m interested in Data Science Courses.
 - 🌱 I’m currently learning Data Analysis with Python. 
-- 💞️ I’m looking to collaborate on Data Science.
+- 💞️ I’m looking to collaborate on Data Science Projects.
 - 📫 Contact njuguna.kenneth@outlook.com 
               Nairobi, Kenya 
 
