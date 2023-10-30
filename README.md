@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KennethNjuguna
 - 👀 I’m interested in Data Science Courses.
-- 🌱 I’m currently learning Databases and SQL for Data Science with Python. 
+- 🌱 I’m currently working on https://dagshub.com/Omdena/KanoNigeriaChapter_FoodPrices. 
 - 💞️ I’m looking to collaborate on Data Science Projects.
 - 📫 Contact njuguna.kenneth@outlook.com 
               Nairobi, Kenya 
